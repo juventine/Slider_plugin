@@ -39,7 +39,6 @@ var mySliderPlugin = ( function() {
   		window.onresize = buildViewport; // event-handler for onresize event
   		moveMouseImages(); // mouseMove
   		viewInitContainer();
-
 	};
 
   function hideContainer() {
