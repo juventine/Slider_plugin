@@ -7,5 +7,5 @@ document.addEventListener('DOMContentLoaded', function() {
 	var elementContainer = document.getElementById('container');
 	var elemLeftButton = document.getElementById('leftButton');
 	var elemRightButton = document.getElementById('rightButton');
-		mySliderPlugin.init( options, elementContainer, elemLeftButton, elemRightButton );
+	mySliderPlugin.init( options, elementContainer, elemLeftButton, elemRightButton );
 });
