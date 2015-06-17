@@ -1,0 +1,46 @@
+body {
+	box-sizing:border-box;
+  padding: 40px 0px 0px;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  background:#2E9AFE;
+}
+
+#wrapper {
+  box-sizing:border-box;
+  position: relative;
+  overflow: hidden;
+  width:100%;
+  margin:auto;
+  padding: 0px 3px 5px 0px;
+  background: #F7F8E0;
+}
+
+.div_container {
+  display:inline-block;
+  box-sizing:border-box;
+  padding-left: 3px;
+}
+
+#container {
+  width: 10000px;
+  position: relative;
+  font-size: 0;
+}
+
+.left {
+  padding: 10px;
+}
+
+.right {
+  padding: 10px;
+}
+
+.buttons{
+  padding: 20px 10% 0px;
+}
+
+#left_button {
+  left:20px;
+}
+
+
